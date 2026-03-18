@@ -1,6 +1,6 @@
 # pagina2
 
-##carrusel en html
+## carrusel en html
 
 hecho con booststrap xd
 
